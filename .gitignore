@@ -5,3 +5,5 @@ __pycache__/
 
 # Ignore large raw dataset
 20_newsgroups/
+
+news_data.csv
